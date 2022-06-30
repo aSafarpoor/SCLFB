@@ -1,6 +1,11 @@
 Simple  project as SimpleContrastiveLearning(SCL)
 
-* content based model
-* collaborative filtering
-* one layer GNN like embedding + CF
-* Contrastive Learning
+* Phase 0
+  * Content based model
+  * Collaborative Filtering
+* Phase 1
+  * one layer GNN like embedding + CF
+  * Contrastive Learning
+
+
+
